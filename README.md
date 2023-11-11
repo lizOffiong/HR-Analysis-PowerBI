@@ -8,8 +8,9 @@ This project revolves around understanding the overall and active employee dynam
 ### Data Sources
 HR Data: The primary dataset used for this analysis is the "HR Data.xlsx" file, containing detailed information pertinent to attrition within an organization.
 
-### Tools
-- Excel - Data Cleaning
+### Data used and Tools
+- Data - HR Data with over 1470 rows
+- Excel & PostgreSQL- Data Cleaning & Analysis
 - PowerBI - Visualization
 
 ### Project Insights
