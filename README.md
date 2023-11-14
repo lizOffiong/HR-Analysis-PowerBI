@@ -3,7 +3,7 @@
 ![image](HR_Dashboard.png)
 ---
 ### Project Overview
-This project revolves around understanding the overall and active employee dynamics, exploring job satisfaction, and devising strategic retention solutions to curtail attrition rates. 
+This project focused on understanding the dynamics of both overall and active employees exploring job satisfaction and coming up with strategic solutions to reduce attrition rates.
 
 ### Data Sources
 HR Data: The primary dataset used for this analysis is the "HR Data.xlsx" file, containing detailed information pertinent to attrition within an organization.
@@ -13,15 +13,17 @@ HR Data: The primary dataset used for this analysis is the "HR Data.xlsx" file, 
 - Excel & PostgreSQL- Data Cleaning & Analysis
 - PowerBI - Visualization
 
-### Project Insights
-This project encompassed a broad spectrum, encompassing demographics - 1470 employees across diverse departments, performance evaluations which showed that 1233 employees were active in the workforce discerning their satisfaction ratings. The sales Executive role had the highest job satisfaction rating of 326, indicating a highly content workforce. 
-The attrition analysis also revealed that the organization experienced a 16.12% attrition rate, with 237 voluntary attrition and their influence on organizational stability.
+### Here are some key insights, from the project;
+ We analyzed a group of 1,470 employees across departments. Out of those we found that 1,233 were actively working and we assessed their satisfaction ratings.
+ Interestingly the sales executive role had the job satisfaction rating at 326. This suggests that our workforce in that role is content.
+ Our attrition analysis revealed an attrition rate of 16.12% with 237 cases being voluntary. Understanding these numbers is crucial for maintaining stability.
 
-### Strategic Recommendations - aimed at improvement:
-- Job satisfaction enhancement: by targeting job roles highlighted in the satisfaction survey, the objective is to elevate the job satisfaction rating in all departments to 90% by ensuring employees' contentment and commitment.
-- Retention initiatives: Ensure tailored career development pathways to elevate engagement initiatives, aimed at fostering an engaged and satisfied workplace.
-- Attrition analysis: Identify trends, vulnerable employee groups, and influential factors such as education, departments, age groups, etc influencing attrition rates, revealing areas for focused intervention.
-  
-**_This project isn't just about analyzing numbers; it's a roadmap towards crafting an environment that nurtures employee satisfaction and a thriving and cohesive workplace culture_**.
+### Based on these findings we have some recommendations for improvement;
+1. Enhancing job satisfaction; Our goal is to improve job satisfaction ratings in all departments to reach 90%. We will focus on addressing any issues highlighted in the satisfaction survey and ensuring employees happiness and dedication.
+2. Retention initiatives; We will implement tailored career development pathways to foster engagement initiatives aimed at creating an satisfied workplace.
+3. Attrition analysis; By identifying trends and vulnerable employee groups as influential factors like education level, department distribution, age groups, etc. we can pinpoint areas where intervention would be most effective, in reducing attrition rates.
+
+**_Overall this project has provided us with insights that will help us improve employee satisfaction and retention within our organization.<br>
+This endeavor goes beyond number analysis. It serves as a guide, to creating a work setting that fosters employee happiness and cultivates an harmonious culture_**.
 
 ### You can interact with the report [here](https://www.novypro.com/project/hr-dashboard-76)
