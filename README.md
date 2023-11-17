@@ -11,7 +11,7 @@ HR Data: The primary dataset used for this analysis is the "HR Data.xlsx" file, 
 ### Data used and Tools
 - Data - HR Data with over 1470 rows
 - Excel & PostgreSQL- Data Cleaning & Analysis
-- PowerBI - Visualization
+- Excel & PowerBI - Visualization
 
 ### Here are some key insights, from the project;
  We analyzed a group of 1,470 employees across departments. Out of those we found that 1,233 were actively working and we assessed their satisfaction ratings.
