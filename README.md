@@ -2,6 +2,7 @@
 
 ![image](HR_Dashboard.png)
 ---
+![](HR_Analysis-ExcelDashboard.png)
 ### Project Overview
 This project focused on understanding the dynamics of both overall and active employees exploring job satisfaction and coming up with strategic solutions to reduce attrition rates.
 
